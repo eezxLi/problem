@@ -4,7 +4,7 @@ package com.lzx;
  * Hello world!
  *
  */
-public class App 
+public class problem
 {
     public static void main( String[] args )
     {
